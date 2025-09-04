@@ -75,6 +75,7 @@ pi-node initialize
 * View logs: `docker compose -f "$HOME/pi-node/docker-compose.yml" logs -f`
 * Restart: `docker compose -f "$HOME/pi-node/docker-compose.yml" restart`
 * Stop: `docker compose -f "$HOME/pi-node/docker-compose.yml" down`
+* Go to <a href="https://piscan.io/nodes">https://piscan.io/nodes</a> CTRL+F = IP address =>> Status: Connected ==>> Done
 
 # Important Notes
 
