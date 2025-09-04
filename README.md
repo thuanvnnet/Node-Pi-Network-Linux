@@ -57,7 +57,8 @@ pi-node --version
 pi-node --help
 ```
 **Step 5: Initialize Pi Node**
-```pi-node initialize
+```
+pi-node initialize
 ```
 * For additional information: pi-node initialize --help.
 * During initialization, you’ll be prompted for options such as the storage directory, PostgreSQL password, and NODE_SEED (if applicable).
