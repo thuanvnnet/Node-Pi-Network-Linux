@@ -5,3 +5,9 @@ Here is a detailed and professional guide to installing and running Pi Node on L
 *Information from the Pi Network Core Team: minepi.com/blog/pi-linux-node
 *Installation Guide 🔗 minepi.com/pi-blockchain/pi-node/linux/
 How can I link my Linux node to my Pi account and get node rewards?
+
+
+sudo apt-get update
+sudo apt-get install -y docker.io docker-compose
+sudo systemctl start docker
+sudo systemctl enable docker
