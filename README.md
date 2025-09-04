@@ -1,4 +1,4 @@
-# Node Pi Network For Linux
+# Node Pi Network On Linux
 **How to Install and Run Pi Node on Linux?**</br>
 Here is a detailed and professional guide to installing and running Pi Node on Linux system, based on the official documentation from Pi Network. This guide includes steps to set up a new node, upgrade an existing node, and important notes. I will present it in a clear structure, with code commands formatted for easy copy and implementation.</br>
 # Note before starting
