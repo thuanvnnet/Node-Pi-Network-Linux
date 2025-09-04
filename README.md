@@ -29,7 +29,7 @@ Windows/macOS Pioneer nodes are currently running on testnet2, while new Linux n
 * Docker and Docker Compose v2 should already be installed. If not, run the following commands to install Docker:</br>
 ```
 sudo apt-get update
-sudo apt-get install -y docker.io docker-compose
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 sudo systemctl start docker
 sudo systemctl enable docker
 ```
