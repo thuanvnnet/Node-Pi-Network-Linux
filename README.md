@@ -46,6 +46,8 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 docker compose version
+sudo systemctl enable docker
+sudo systemctl start docker
 ```
 # Set Up New Nodes
 **Step 1: Install Prerequisite Packages**
